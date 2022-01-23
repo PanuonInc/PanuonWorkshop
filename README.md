@@ -23,7 +23,7 @@ Panuon Workshop（创意工坊）是一个低代码化的UI设计平台。
 
 现在，PanuonWorkshop简化了这一流程。Panuon Workshop导出的代码依赖Panuon.UI.Silver 2.2以上版本的控件库。如果你已经熟悉了Panuon.UI.Silver，那么你一定知道我们接下来要说什么。没错，你可以在Panuon Workshop中自定义所有组件的样式、外观和交互效果。例如，你可以随意定义一个按钮的背景色，或是将背景设置为一张图片。紧接着，你还可以定制交互逻辑，例如，设置当鼠标悬浮在按钮上时，把它的背景以动画过渡到另一种颜色。  
 这无需你掌握任何的代码知识或技巧，你只需要在设计器上拖拽和点击 —— 就像在Adobe Photoshop中那样，就可以定制所有的UI设计和交互（甚至包含了动画），接着就能将其导出为可用的代码。  
-![image](https://user-images.githubusercontent.com/23360265/150684291-a7887af3-186b-4df4-a58e-75644d1a796b.png)
+![image](https://user-images.githubusercontent.com/23360265/150685567-3e2c88fb-8708-42b2-80c2-f35329a8d86a.png)
 
 对于个人或小团队开发者，Panuon Workshop将在后续的版本中提供“模板市场”功能。你可以在模板市场中选择喜欢的模板，并以此为框架，搭建你自己的创意项目。    
 在后续的版本中，Panuon Workshop会提供页面编辑器功能，使得你可以像在Visual Studio中那样，用写好的控件样式编写并管理页面。  
